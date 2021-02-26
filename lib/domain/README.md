@@ -1,0 +1,1 @@
+This domain layer is the **pristine center** of an app. It's fully self contained and it doesn't depend on any others layers. Domain is not concerned with anything but doing its own job well.

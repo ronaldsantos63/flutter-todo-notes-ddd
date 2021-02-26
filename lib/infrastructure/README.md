@@ -1,0 +1,1 @@
+This layer deals with APIS, Firebase libraries, databases and devices sensors.
