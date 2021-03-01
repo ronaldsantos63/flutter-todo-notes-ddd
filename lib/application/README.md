@@ -1,0 +1,1 @@
+This layer will not contain any business rules, ui code or network calls, it is only responsible for orchestrating all other layers.
